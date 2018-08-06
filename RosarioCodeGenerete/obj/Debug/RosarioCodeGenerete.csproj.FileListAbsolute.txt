@@ -1,0 +1,8 @@
+c:\users\macedofl\documents\visual studio 2015\Projects\RosarioCodeGenerete\RosarioCodeGenerete\bin\Debug\RosarioCodeGenerete.exe.config
+c:\users\macedofl\documents\visual studio 2015\Projects\RosarioCodeGenerete\RosarioCodeGenerete\obj\Debug\RosarioCodeGenerete.Form1.resources
+c:\users\macedofl\documents\visual studio 2015\Projects\RosarioCodeGenerete\RosarioCodeGenerete\obj\Debug\RosarioCodeGenerete.Properties.Resources.resources
+c:\users\macedofl\documents\visual studio 2015\Projects\RosarioCodeGenerete\RosarioCodeGenerete\obj\Debug\RosarioCodeGenerete.csproj.GenerateResource.Cache
+c:\users\macedofl\documents\visual studio 2015\Projects\RosarioCodeGenerete\RosarioCodeGenerete\bin\Debug\RosarioCodeGenerete.exe
+c:\users\macedofl\documents\visual studio 2015\Projects\RosarioCodeGenerete\RosarioCodeGenerete\bin\Debug\RosarioCodeGenerete.pdb
+c:\users\macedofl\documents\visual studio 2015\Projects\RosarioCodeGenerete\RosarioCodeGenerete\obj\Debug\RosarioCodeGenerete.exe
+c:\users\macedofl\documents\visual studio 2015\Projects\RosarioCodeGenerete\RosarioCodeGenerete\obj\Debug\RosarioCodeGenerete.pdb
